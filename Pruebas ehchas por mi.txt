@@ -3,3 +3,4 @@ Haciendo algunas puebas del comando RM
 Agrego un nuevo parrafo.
 
 Agrego una nueva linea en archivo Pruebas etc..
+Agrego una nueva linea habiendo probado de forma correcta el comando git reset head
